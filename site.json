@@ -11,6 +11,12 @@
       "title": "Cooperation in the prisoner’s dilemma",
       "status": "Ongoing",
       "summary": "An open notebook on individual incentives, repeated interactions, and the conditions that can sustain cooperation."
+    },
+    {
+      "slug": "quantile-kinks-simulation",
+      "title": "Quantile kinks simulation",
+      "status": "Ongoing",
+      "summary": "A simulation of quantile breakpoints with testing function applies over data sets."
     }
   ]
 }
