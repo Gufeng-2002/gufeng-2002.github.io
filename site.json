@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "slug": "quantile-kinks",
+      "title": "Quantile kinks & ecological breakpoints",
+      "status": "Completed",
+      "summary": "A complete example study of slope changes, upper response envelopes, and the interpretation of ecological thresholds."
+    },
+    {
+      "slug": "prisoners-dilemma",
+      "title": "Cooperation in the prisoner’s dilemma",
+      "status": "Ongoing",
+      "summary": "An open notebook on individual incentives, repeated interactions, and the conditions that can sustain cooperation."
+    }
+  ]
+}
