@@ -26,7 +26,7 @@ Local asset paths must stay inside the project. Copy figures into assets/ rather
 
 ## Install and preview (Mac/Linux)
 
-Install Python 3 if needed, then in this folder:
+Install the Python version listed in .python-version if needed (the publish workflow uses the same file), then in this folder:
 
     python3 -m venv .venv
     source .venv/bin/activate
